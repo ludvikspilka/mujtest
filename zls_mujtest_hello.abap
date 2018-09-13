@@ -1,2 +1,0 @@
-Write: 'Hello'.
-Write: 'Nazdar'.
