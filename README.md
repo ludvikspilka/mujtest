@@ -1,2 +1,0 @@
-# mujtest
-abap git test
